@@ -10,21 +10,21 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Sun, 31 May 2026 14:20:00 CEST</pubDate>
+    <pubDate>Sun, 31 May 2026 14:30:00 CEST</pubDate>
 
-    <lastBuildDate>Sun, 31 May 2026 14:20:00 CEST</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 14:30:00 CEST</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.3.1</generator>
     <ttl>10.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 31/05/26 14:20:00</title>
+      <title>Weather Conditions at 31/05/26 14:30:00</title>
       <link></link>
       <description>
         Outside Temperature: 21.9&#176;C;
         Inside Temperature: 23.0&#176;C;
-        Barometer: 1013.2 mbar;
-        Wind: 2.2 m/s from 112&#176;;
+        Barometer: 1013.3 mbar;
+        Wind: 1.8 m/s from 112&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
         Wind Chill: 21.9&#176;C;
@@ -33,16 +33,16 @@
         Outside Humidity: 50%;
         Inside Humidity: 49%;
       </description>
-      <pubDate>Sun, 31 May 2026 14:20:00 CEST</pubDate>
+      <pubDate>Sun, 31 May 2026 14:30:00 CEST</pubDate>
       <geo:lat>50.15</geo:lat>
       <geo:long>18.57</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 31/05/26 14:20:00<br/>
+      Time: 31/05/26 14:30:00<br/>
         Outside Temperature: 21.9&#176;C<br/>
         Inside Temperature: 23.0&#176;C<br/>
-        Barometer: 1013.2 mbar<br/>
-        Wind: 2.2 m/s from 112&#176;;
+        Barometer: 1013.3 mbar<br/>
+        Wind: 1.8 m/s from 112&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
         Wind Chill: 21.9&#176;C<br/>
@@ -55,14 +55,14 @@
     </item>
 
     <item>
-      <title>Daily summary as of 31/05/26 14:20:00</title>
+      <title>Daily summary as of 31/05/26 14:30:00</title>
       <link></link>
       <description>
         Min Outside Temperature: 13.6&#176;C at 05:13:26;
         Max Outside Temperature: 22.1&#176;C at 14:17:43;
         Min Inside Temperature: 21.7&#176;C at 00:20:00;
-        Max Inside Temperature: 23.0&#176;C at 14:14:01;
-        Min Barometer: 1013.2 mbar at 14:19:01;
+        Max Inside Temperature: 23.1&#176;C at 14:23:01;
+        Min Barometer: 1013.2 mbar at 14:23:01;
         Max Barometer: 1016.5 mbar at 00:04:00;
         Max Wind: 8.0 m/s from 113&#176; at 14:02:41;
         Rain: 0.2 mm;
@@ -71,14 +71,14 @@
         Max Wind Chill: 22.1&#176;C at 14:17:43;
         Min Heat Index: 13.4&#176;C at 05:13:26;
         Max Heat Index: 21.7&#176;C at 14:17:43;
-        Min Dew Point: 11.0&#176;C at 13:36:33;
+        Min Dew Point: 10.9&#176;C at 14:23:43;
         Max Dew Point: 13.6&#176;C at 09:35:11;
         Min Outside Humidity: 50% at 14:18:47;
         Max Outside Humidity: 91% at 07:11:42;
         Min Inside Humidity: 49% at 13:44:01;
         Max Inside Humidity: 52% at 00:33:00;
       </description>
-      <pubDate>Sun, 31 May 2026 14:20:00 CEST</pubDate>
+      <pubDate>Sun, 31 May 2026 14:30:00 CEST</pubDate>
       <geo:lat>50.15</geo:lat>
       <geo:long>18.57</geo:long>
       <content:encoded><![CDATA[
@@ -87,8 +87,8 @@
         Min Outside Temperature: 13.6&#176;C at 05:13:26<br/>
         Max Outside Temperature: 22.1&#176;C at 14:17:43<br/>
         Min Inside Temperature: 21.7&#176;C at 00:20:00<br/>
-        Max Inside Temperature: 23.0&#176;C at 14:14:01<br/>
-        Min Barometer: 1013.2 mbar at 14:19:01<br/>
+        Max Inside Temperature: 23.1&#176;C at 14:23:01<br/>
+        Min Barometer: 1013.2 mbar at 14:23:01<br/>
         Max Barometer: 1016.5 mbar at 00:04:00<br/>
         Max Wind: 8.0 m/s from 113&#176; at 14:02:41<br/>
         Rain: 0.2 mm<br/>
@@ -97,7 +97,7 @@
         Max Wind Chill: 22.1&#176;C at 14:17:43<br/>
         Min Heat Index: 13.4&#176;C at 05:13:26<br/>
         Max Heat Index: 21.7&#176;C at 14:17:43<br/>
-        Min Dew Point: 11.0&#176;C at 13:36:33<br/>
+        Min Dew Point: 10.9&#176;C at 14:23:43<br/>
         Max Dew Point: 13.6&#176;C at 09:35:11<br/>
         Min Outside Humidity: 50% at 14:18:47<br/>
         Max Outside Humidity: 91% at 07:11:42<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 31/05/26 14:20:00</title>
+      <title>Monthly summary as of 31/05/26 14:30:00</title>
       <link></link>
       <description>
         Min Outside Temperature: 3.3&#176;C at 13/05/26 04:00:00;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 28% at 28/05/26 14:41:01;
         Max Inside Humidity: 52% at 25/05/26 02:10:00;
       </description>
-      <pubDate>Sun, 31 May 2026 14:20:00 CEST</pubDate>
+      <pubDate>Sun, 31 May 2026 14:30:00 CEST</pubDate>
       <geo:lat>50.15</geo:lat>
       <geo:long>18.57</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 31/05/26 14:20:00</title>
+      <title>Yearly summary as of 31/05/26 14:30:00</title>
       <link></link>
       <description>
         Min Outside Temperature: 3.3&#176;C at 13/05/26 04:00:00;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 28% at 28/05/26 14:41:01;
         Max Inside Humidity: 52% at 25/05/26 02:10:00;
       </description>
-      <pubDate>Sun, 31 May 2026 14:20:00 CEST</pubDate>
+      <pubDate>Sun, 31 May 2026 14:30:00 CEST</pubDate>
       <geo:lat>50.15</geo:lat>
       <geo:long>18.57</geo:long>
       <content:encoded><![CDATA[
