@@ -10,44 +10,44 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Mon, 01 Jun 2026 23:50:00 CEST</pubDate>
+    <pubDate>Tue, 02 Jun 2026 00:00:00 CEST</pubDate>
 
-    <lastBuildDate>Mon, 01 Jun 2026 23:50:00 CEST</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 00:00:00 CEST</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.3.1</generator>
     <ttl>10.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 01/06/26 23:50:00</title>
+      <title>Weather Conditions at 02/06/26 00:00:00</title>
       <link></link>
       <description>
-        Outside Temperature: 13.8&#176;C;
+        Outside Temperature: 13.9&#176;C;
         Inside Temperature: 21.9&#176;C;
-        Barometer: 1016.3 mbar;
+        Barometer: 1016.2 mbar;
         Wind: 0.0 m/s from    N/A;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 13.8&#176;C;
-        Heat Index: 13.6&#176;C;
-        Dew Point: 11.9&#176;C;
+        Wind Chill: 13.9&#176;C;
+        Heat Index: 13.7&#176;C;
+        Dew Point: 12.0&#176;C;
         Outside Humidity: 88%;
         Inside Humidity: 53%;
       </description>
-      <pubDate>Mon, 01 Jun 2026 23:50:00 CEST</pubDate>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 CEST</pubDate>
       <geo:lat>50.15</geo:lat>
       <geo:long>18.57</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 01/06/26 23:50:00<br/>
-        Outside Temperature: 13.8&#176;C<br/>
+      Time: 02/06/26 00:00:00<br/>
+        Outside Temperature: 13.9&#176;C<br/>
         Inside Temperature: 21.9&#176;C<br/>
-        Barometer: 1016.3 mbar<br/>
+        Barometer: 1016.2 mbar<br/>
         Wind: 0.0 m/s from    N/A;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 13.8&#176;C<br/>
-        Heat Index: 13.6&#176;C<br/>
-        Dew Point: 11.9&#176;C<br/>
+        Wind Chill: 13.9&#176;C<br/>
+        Heat Index: 13.7&#176;C<br/>
+        Dew Point: 12.0&#176;C<br/>
         Outside Humidity: 88%<br/>
         Inside Humidity: 53%<br/>
       </p>
@@ -55,10 +55,10 @@
     </item>
 
     <item>
-      <title>Daily summary as of 01/06/26 23:50:00</title>
+      <title>Daily summary as of 02/06/26 00:00:00</title>
       <link></link>
       <description>
-        Min Outside Temperature: 13.8&#176;C at 23:48:16;
+        Min Outside Temperature: 13.8&#176;C at 23:50:50;
         Max Outside Temperature: 21.7&#176;C at 15:32:29;
         Min Inside Temperature: 21.7&#176;C at 04:17:00;
         Max Inside Temperature: 25.1&#176;C at 14:07:01;
@@ -67,9 +67,9 @@
         Max Wind: 5.4 m/s from 342&#176; at 14:27:41;
         Rain: 7.0 mm;
         Max Rain Rate: 29.2 mm/h;
-        Min Wind Chill: 13.8&#176;C at 23:48:16;
+        Min Wind Chill: 13.8&#176;C at 23:50:50;
         Max Wind Chill: 21.7&#176;C at 15:32:29;
-        Min Heat Index: 13.5&#176;C at 23:48:56;
+        Min Heat Index: 13.5&#176;C at 23:50:50;
         Max Heat Index: 21.8&#176;C at 15:32:29;
         Min Dew Point: 11.2&#176;C at 00:51:30;
         Max Dew Point: 17.0&#176;C at 15:09:15;
@@ -78,13 +78,13 @@
         Min Inside Humidity: 48% at 00:00:04;
         Max Inside Humidity: 57% at 14:54:01;
       </description>
-      <pubDate>Mon, 01 Jun 2026 23:50:00 CEST</pubDate>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 CEST</pubDate>
       <geo:lat>50.15</geo:lat>
       <geo:long>18.57</geo:long>
       <content:encoded><![CDATA[
       <p>
       Daily summary as of 01 Jun 2026<br/>
-        Min Outside Temperature: 13.8&#176;C at 23:48:16<br/>
+        Min Outside Temperature: 13.8&#176;C at 23:50:50<br/>
         Max Outside Temperature: 21.7&#176;C at 15:32:29<br/>
         Min Inside Temperature: 21.7&#176;C at 04:17:00<br/>
         Max Inside Temperature: 25.1&#176;C at 14:07:01<br/>
@@ -93,9 +93,9 @@
         Max Wind: 5.4 m/s from 342&#176; at 14:27:41<br/>
         Rain: 7.0 mm<br/>
         Max Rain Rate: 29.2 mm/h<br/>
-        Min Wind Chill: 13.8&#176;C at 23:48:16<br/>
+        Min Wind Chill: 13.8&#176;C at 23:50:50<br/>
         Max Wind Chill: 21.7&#176;C at 15:32:29<br/>
-        Min Heat Index: 13.5&#176;C at 23:48:56<br/>
+        Min Heat Index: 13.5&#176;C at 23:50:50<br/>
         Max Heat Index: 21.8&#176;C at 15:32:29<br/>
         Min Dew Point: 11.2&#176;C at 00:51:30<br/>
         Max Dew Point: 17.0&#176;C at 15:09:15<br/>
@@ -107,10 +107,10 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 01/06/26 23:50:00</title>
+      <title>Monthly summary as of 02/06/26 00:00:00</title>
       <link></link>
       <description>
-        Min Outside Temperature: 13.8&#176;C at 01/06/26 23:48:16;
+        Min Outside Temperature: 13.8&#176;C at 01/06/26 23:50:50;
         Max Outside Temperature: 21.7&#176;C at 01/06/26 15:32:29;
         Min Inside Temperature: 21.7&#176;C at 01/06/26 04:17:00;
         Max Inside Temperature: 25.1&#176;C at 01/06/26 14:07:01;
@@ -119,9 +119,9 @@
         Max Wind: 5.4 m/s from 342&#176; at 01/06/26 14:27:41;
         Rain: 7.0 mm;
         Max Rain Rate: 29.2 mm/h;
-        Min Wind Chill: 13.8&#176;C at 01/06/26 23:48:16;
+        Min Wind Chill: 13.8&#176;C at 01/06/26 23:50:50;
         Max Wind Chill: 21.7&#176;C at 01/06/26 15:32:29;
-        Min Heat Index: 13.5&#176;C at 01/06/26 23:48:56;
+        Min Heat Index: 13.5&#176;C at 01/06/26 23:50:50;
         Max Heat Index: 21.8&#176;C at 01/06/26 15:32:29;
         Min Dew Point: 11.2&#176;C at 01/06/26 00:51:30;
         Max Dew Point: 17.0&#176;C at 01/06/26 15:09:15;
@@ -130,13 +130,13 @@
         Min Inside Humidity: 48% at 01/06/26 00:00:04;
         Max Inside Humidity: 57% at 01/06/26 14:54:01;
       </description>
-      <pubDate>Mon, 01 Jun 2026 23:50:00 CEST</pubDate>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 CEST</pubDate>
       <geo:lat>50.15</geo:lat>
       <geo:long>18.57</geo:long>
       <content:encoded><![CDATA[
       <p>
       Monthly summary as of 01 Jun 2026<br/>
-        Min Outside Temperature: 13.8&#176;C at 01/06/26 23:48:16<br/>
+        Min Outside Temperature: 13.8&#176;C at 01/06/26 23:50:50<br/>
         Max Outside Temperature: 21.7&#176;C at 01/06/26 15:32:29<br/>
         Min Inside Temperature: 21.7&#176;C at 01/06/26 04:17:00<br/>
         Max Inside Temperature: 25.1&#176;C at 01/06/26 14:07:01<br/>
@@ -145,9 +145,9 @@
         Max Wind: 5.4 m/s from 342&#176; at 01/06/26 14:27:41<br/>
         Rain: 7.0 mm<br/>
         Max Rain Rate: 29.2 mm/h<br/>
-        Min Wind Chill: 13.8&#176;C at 01/06/26 23:48:16<br/>
+        Min Wind Chill: 13.8&#176;C at 01/06/26 23:50:50<br/>
         Max Wind Chill: 21.7&#176;C at 01/06/26 15:32:29<br/>
-        Min Heat Index: 13.5&#176;C at 01/06/26 23:48:56<br/>
+        Min Heat Index: 13.5&#176;C at 01/06/26 23:50:50<br/>
         Max Heat Index: 21.8&#176;C at 01/06/26 15:32:29<br/>
         Min Dew Point: 11.2&#176;C at 01/06/26 00:51:30<br/>
         Max Dew Point: 17.0&#176;C at 01/06/26 15:09:15<br/>
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 01/06/26 23:50:00</title>
+      <title>Yearly summary as of 02/06/26 00:00:00</title>
       <link></link>
       <description>
         Min Outside Temperature: 3.3&#176;C at 13/05/26 04:00:00;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 28% at 28/05/26 14:41:01;
         Max Inside Humidity: 57% at 01/06/26 14:54:01;
       </description>
-      <pubDate>Mon, 01 Jun 2026 23:50:00 CEST</pubDate>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 CEST</pubDate>
       <geo:lat>50.15</geo:lat>
       <geo:long>18.57</geo:long>
       <content:encoded><![CDATA[
