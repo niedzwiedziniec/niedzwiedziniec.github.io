@@ -10,52 +10,52 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Tue, 02 Jun 2026 02:20:00 CEST</pubDate>
+    <pubDate>Tue, 02 Jun 2026 02:30:00 CEST</pubDate>
 
-    <lastBuildDate>Tue, 02 Jun 2026 02:20:00 CEST</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 02:30:00 CEST</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.3.1</generator>
     <ttl>10.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 02/06/26 02:20:00</title>
+      <title>Weather Conditions at 02/06/26 02:30:00</title>
       <link></link>
       <description>
         Outside Temperature: 12.7&#176;C;
         Inside Temperature: 21.7&#176;C;
-        Barometer: 1016.0 mbar;
+        Barometer: 1016.1 mbar;
         Wind: 0.0 m/s from    N/A;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
         Wind Chill: 12.7&#176;C;
-        Heat Index: 12.4&#176;C;
-        Dew Point: 11.6&#176;C;
-        Outside Humidity: 93%;
+        Heat Index: 12.5&#176;C;
+        Dew Point: 11.8&#176;C;
+        Outside Humidity: 94%;
         Inside Humidity: 53%;
       </description>
-      <pubDate>Tue, 02 Jun 2026 02:20:00 CEST</pubDate>
+      <pubDate>Tue, 02 Jun 2026 02:30:00 CEST</pubDate>
       <geo:lat>50.15</geo:lat>
       <geo:long>18.57</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 02/06/26 02:20:00<br/>
+      Time: 02/06/26 02:30:00<br/>
         Outside Temperature: 12.7&#176;C<br/>
         Inside Temperature: 21.7&#176;C<br/>
-        Barometer: 1016.0 mbar<br/>
+        Barometer: 1016.1 mbar<br/>
         Wind: 0.0 m/s from    N/A;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
         Wind Chill: 12.7&#176;C<br/>
-        Heat Index: 12.4&#176;C<br/>
-        Dew Point: 11.6&#176;C<br/>
-        Outside Humidity: 93%<br/>
+        Heat Index: 12.5&#176;C<br/>
+        Dew Point: 11.8&#176;C<br/>
+        Outside Humidity: 94%<br/>
         Inside Humidity: 53%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 02/06/26 02:20:00</title>
+      <title>Daily summary as of 02/06/26 02:30:00</title>
       <link></link>
       <description>
         Min Outside Temperature: 12.7&#176;C at 02:13:38;
@@ -74,11 +74,11 @@
         Min Dew Point: 11.5&#176;C at 01:54:40;
         Max Dew Point: 12.1&#176;C at 00:59:50;
         Min Outside Humidity: 88% at 00:00:04;
-        Max Outside Humidity: 93% at 01:49:04;
+        Max Outside Humidity: 94% at 02:28:22;
         Min Inside Humidity: 53% at 00:00:04;
         Max Inside Humidity: 53% at 00:00:04;
       </description>
-      <pubDate>Tue, 02 Jun 2026 02:20:00 CEST</pubDate>
+      <pubDate>Tue, 02 Jun 2026 02:30:00 CEST</pubDate>
       <geo:lat>50.15</geo:lat>
       <geo:long>18.57</geo:long>
       <content:encoded><![CDATA[
@@ -100,14 +100,14 @@
         Min Dew Point: 11.5&#176;C at 01:54:40<br/>
         Max Dew Point: 12.1&#176;C at 00:59:50<br/>
         Min Outside Humidity: 88% at 00:00:04<br/>
-        Max Outside Humidity: 93% at 01:49:04<br/>
+        Max Outside Humidity: 94% at 02:28:22<br/>
         Min Inside Humidity: 53% at 00:00:04<br/>
         Max Inside Humidity: 53% at 00:00:04<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 02/06/26 02:20:00</title>
+      <title>Monthly summary as of 02/06/26 02:30:00</title>
       <link></link>
       <description>
         Min Outside Temperature: 12.7&#176;C at 02/06/26 02:13:38;
@@ -126,11 +126,11 @@
         Min Dew Point: 11.2&#176;C at 01/06/26 00:51:30;
         Max Dew Point: 17.0&#176;C at 01/06/26 15:09:15;
         Min Outside Humidity: 57% at 01/06/26 17:29:23;
-        Max Outside Humidity: 93% at 01/06/26 09:37:03;
+        Max Outside Humidity: 94% at 02/06/26 02:28:22;
         Min Inside Humidity: 48% at 01/06/26 00:00:04;
         Max Inside Humidity: 57% at 01/06/26 14:54:01;
       </description>
-      <pubDate>Tue, 02 Jun 2026 02:20:00 CEST</pubDate>
+      <pubDate>Tue, 02 Jun 2026 02:30:00 CEST</pubDate>
       <geo:lat>50.15</geo:lat>
       <geo:long>18.57</geo:long>
       <content:encoded><![CDATA[
@@ -152,14 +152,14 @@
         Min Dew Point: 11.2&#176;C at 01/06/26 00:51:30<br/>
         Max Dew Point: 17.0&#176;C at 01/06/26 15:09:15<br/>
         Min Outside Humidity: 57% at 01/06/26 17:29:23<br/>
-        Max Outside Humidity: 93% at 01/06/26 09:37:03<br/>
+        Max Outside Humidity: 94% at 02/06/26 02:28:22<br/>
         Min Inside Humidity: 48% at 01/06/26 00:00:04<br/>
         Max Inside Humidity: 57% at 01/06/26 14:54:01<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 02/06/26 02:20:00</title>
+      <title>Yearly summary as of 02/06/26 02:30:00</title>
       <link></link>
       <description>
         Min Outside Temperature: 3.3&#176;C at 13/05/26 04:00:00;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 28% at 28/05/26 14:41:01;
         Max Inside Humidity: 57% at 01/06/26 14:54:01;
       </description>
-      <pubDate>Tue, 02 Jun 2026 02:20:00 CEST</pubDate>
+      <pubDate>Tue, 02 Jun 2026 02:30:00 CEST</pubDate>
       <geo:lat>50.15</geo:lat>
       <geo:long>18.57</geo:long>
       <content:encoded><![CDATA[
